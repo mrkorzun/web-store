@@ -314,4 +314,4 @@ const url = `https://dummyjson.com/products?limit=12&skip=${(currentPage - 1) * 
 ---
 
 > 📚 Для повідомлень у проєкті використовується бібліотека
-> [iziToast](https://www.npmjs.com/package/izitoast).
+> [iziToast](https://marcelodolza.github.io/iziToast/).
